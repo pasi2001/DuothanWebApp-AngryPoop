@@ -12,6 +12,7 @@ echo "<script>alert('Your information succesfully submitted');</script>";
 echo "<script>window.location.href ='index.php'</script>";
 
 } ?>
+
 <!doctype html>
 <html lang="en">
 
@@ -49,8 +50,8 @@ echo "<script>window.location.href ='index.php'</script>";
                         <ul>
                             <li><a href="#">Home</a></li>
                             <li><a href="#contact_us">Contact Us</a></li>
-                            <li><a href="#logins">Login</a></li> 
-                            <li><a href="#signups">Signup</a></li> 
+                            <li><a href="signin.php">Login</a></li> 
+                            <li><a href="signup.php">Signup</a></li> 
                         </ul>
                     </div>
                 </div>
